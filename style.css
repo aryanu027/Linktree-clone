@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.contentClass{
+    background-color: white;
+    width: 1200px;
+    height: 600px;
+    border-radius: 25px;
+    opacity: 60%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.mog{
+    position: relative;
+    margin-top: 160px;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+}
+.text{
+    position: relative;
+    margin-top: 160px;
+    /* margin-left: 100px; */
+}
+ul{
+    list-style: none;
+}
+.twt{
+    background-color: transparent;
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+.git{
+    background-color: transparent;
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+.twt:hover{
+
+    background-color:  white;
+}.git:hover{
+    background-color:  white;
+}
+.social{
+
+    color: black;
+    font-size: 25px;
+
+}
+.social:hover{
+    text-decoration: none;
+}
+.logos{
+    /* padding-bottom: 10px; */
+    float: left;
+    height: 40px;
+    width: 40px;
+}
